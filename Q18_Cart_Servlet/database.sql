@@ -1,0 +1,1 @@
+CREATE TABLE catalogue(product VARCHAR(30));

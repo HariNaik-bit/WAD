@@ -1,0 +1,3 @@
+Create app: npx create-react-app weather-app
+Install: npm install chart.js react-chartjs-2
+Replace src/App.js with the file below. Add your OpenWeatherMap API key.

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <classpathentry kind="src" path="Q08_Student_CRUD_JDBC"/>
+    <classpathentry kind="src" path="Q09_Search_Student_JDBC"/>
+    <classpathentry kind="src" path="Q10_Library_Console"/>
+    <classpathentry kind="src" path="Q16_Servlet_Login"/>
+    <classpathentry kind="src" path="Q17_Servlet_Register"/>
+    <classpathentry kind="lib" path="lib/servlet-api.jar"/>
+    <classpathentry kind="lib" path="lib/jakarta.servlet-api-6.0.0.jar"/>
+    <classpathentry kind="lib" path="Q08_Student_CRUD_JDBC/lib/mysql-connector-j-26.10.0.jar"/>
+    <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+    <classpathentry kind="output" path="bin"/>
+</classpath>
